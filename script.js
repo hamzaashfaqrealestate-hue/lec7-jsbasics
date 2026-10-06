@@ -63,6 +63,8 @@ var fruitname = 'apple';
 var fruitname = 'banana';
 
 let fruitone = 'orange';
+let fruittwo = 'mango';
+
 
 // let fruitname = 'bana';
 
@@ -99,6 +101,11 @@ console.log(first/second)
 // Object
 
 
+// operators
+// conditions
+// loops
+// functions
+// async
 
 
 

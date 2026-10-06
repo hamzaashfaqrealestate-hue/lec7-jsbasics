@@ -1,6 +1,6 @@
 // list of collection  = array
 
-let arr = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+let arr11 = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
 
 let arr1 = 1;
 let arr2 = 2;
@@ -12,8 +12,8 @@ console.log(arr5);
 arr5 = 'person';
 
 console.log(arr5)
-
-
+let arr =['ali','hamza','ahmad','usman','asad']
+// console.log[arr(4)]
 
 let fruit1 = 'orange';
 let fruit2 = 'mango';
@@ -55,5 +55,15 @@ console.log(fruitscollection)
 
 
 // to remove any specific index from center what function is used.
+
+
+let fruits = ["Apple" , "Banana" , "Mango" ]
+fruits[1]='orange'
+
+fruits[3] = 'Peach'
+fruits[10] = 'Grapes'
+console.log(fruits)
+
+console.log(fruits[6])
 
 
